@@ -4,7 +4,7 @@
 
 **Be in the meeting. Keep the details.**
 
-A clean, fast product site for Meethelper — a local-first meeting notes app for Windows.
+A clean product site for Meethelper, a local-first meeting notes app for Windows.
 
 [Open the website](https://sanketshinde3001.github.io/meethelper-site/) · [App repository](https://github.com/sanketshinde3001/meethelper)
 
@@ -15,6 +15,8 @@ A clean, fast product site for Meethelper — a local-first meeting notes app fo
 ## About
 
 This repository contains the static website. It uses semantic HTML and CSS, with no JavaScript framework, analytics or runtime dependencies. The app is in private alpha and does not have a public installer yet.
+
+The Windows app link on the site leads to the release status. It will point to the installer once a public download is available.
 
 ## Preview locally
 
