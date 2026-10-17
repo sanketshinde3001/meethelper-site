@@ -31,3 +31,6 @@ Open `http://localhost:8000` in a browser.
 ## License
 
 Website code is available under the [MIT License](LICENSE). The bundled Manrope font is provided under the [SIL Open Font License](assets/fonts/OFL.txt). Product screenshots are sample previews, not app source.
+## Support
+
+If Meethelper is useful to you, you can [support its development](https://buymeacoffee.com/sanketshinde).
